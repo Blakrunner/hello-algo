@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&duration=3500&pause=2000&color=21C8B8&center=true&vCenter=true&random=false&width=200&lines=Hello%2C+%E7%AE%97%E6%B3%95+!" alt="hello-algo-typing-svg" />
   </br>
-  动画图解、一键运行的数据结构与算法教程
+  Animated illustrations、Tutorials on data structures and algorithms that can be run with one click
 </p>
 
 <p align="center">
@@ -39,37 +39,37 @@
   <img src="https://img.shields.io/badge/Stay%20Tuned-snow">
 </p>
 
-## 关于本书
+## About the book
 
-本项目旨在打造一本开源免费、新手友好的数据结构与算法入门教程。
+The purpose of this project is to create an open-source, free, beginner-friendly introductory tutorial on data structures and algorithms。
 
-- 全书采用动画图解，内容清晰易懂、学习曲线平滑，引导初学者探索数据结构与算法的知识地图。
-- 源代码可一键运行，帮助读者在练习中提升编程技能，了解算法工作原理和数据结构底层实现。
-- 鼓励读者互助学习，提问与评论通常可在两日内得到回复。
+- The book is illustrated with animations，The content is clear and easy to understand, and the learning curve is smooth，A knowledge map that guides beginners to explore data structures and algorithms.
+- The source code can be run with one click，Help readers improve their programming skills in practice，Understand how algorithms work and the underlying implementation of data structures。
+- Readers are encouraged to learn from each other，Questions and comments are usually answered within two days。
 
-若本书对您有所帮助，请在页面右上角点个 Star :star: 支持一下，谢谢！
+If this book was helpful to you，Please click on it in the top right corner of the page Star :star: Support it，Thank you！
 
-## 推荐语
+## Testimonials
 
-> “一本通俗易懂的数据结构与算法入门书，引导读者手脑并用地学习，强烈推荐算法初学者阅读。”
+> “一This easy-to-understand primer on data structures and algorithms，Guide the reader to learn with their hands and brains，Highly recommended for algorithm beginners。”
 >
-> **—— 邓俊辉，清华大学计算机系教授**
+> **—— Deng Junhui，Professor, Department of Computer Science, Tsinghua University**
 
-> “如果我当年学数据结构与算法的时候有《Hello 算法》，学起来应该会简单 10 倍！”
+> “If I had it when I was learning about data structures and algorithms《Hello algorithm》，It should be easy to learn 10 fold！”
 >
-> **—— 李沐，亚马逊资深首席科学家**
+> **—— Li Mu，Senior Chief Scientist at Amazon**
 
-## 贡献
+## contribute
 
-本开源书仍在持续更新之中，欢迎您参与本项目，一同为读者提供更优质的学习内容。
+This open-source book is still being updated，You are welcome to participate in this project，一Provide readers with better learning content。
 
-- [内容修正](https://www.hello-algo.com/chapter_appendix/contribution/)：请您协助修正或在评论区指出语法错误、内容缺失、文字歧义、无效链接或代码 bug 等问题。
-- [代码转译](https://github.com/krahets/hello-algo/issues/15)：期待您贡献各种语言代码，已支持 Python、Java、C++、Go、JavaScript 等 12 门编程语言。
-- [中译英](https://github.com/krahets/hello-algo/issues/914)：诚邀您加入我们的翻译小组，成员主要来自计算机相关专业、英语专业和英文母语者。
+- [Modification of contents](https://www.hello-algo.com/chapter_appendix/contribution/)：Please help correct or point out grammatical errors in the comment section、Content is missing、Textual ambiguity、Invalid links or codes bug and so on。
+- [Code Translation](https://github.com/krahets/hello-algo/issues/15)：We look forward to your contributions in a variety of languages，Yes Python、Java、C++、Go、JavaScript wait 12 Gate programming language。
+- [Chinese to English](https://github.com/krahets/hello-algo/issues/914)：We invite you to join our translation team，The members are mainly from computer-related majors、English major and native English speaker。
 
-欢迎您提出宝贵意见和建议，如有任何问题请提交 Issues 或微信联系 `krahets-jyd` 。
+We welcome your valuable comments and suggestions，Please submit any questions Issues or WeChat contact `krahets-jyd` 。
 
-感谢本开源书的每一位撰稿人，是他们的无私奉献让这本书变得更好，他们是：
+Thank you to every contributor to this open source book，It was their selfless dedication that made this book even better，They are：
 
 <p align="left">
     <a href="https://github.com/krahets/hello-algo/graphs/contributors">
